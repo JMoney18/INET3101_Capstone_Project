@@ -374,5 +374,4 @@ These results apply to the paths that were tested. They do not prove that every 
 
 ## Demo Video Link
 
-[Watch my capstone demonstration on Kaltura MediaSpace]
-(https://mediaspace.umn.edu/media/t/1_f3k5u133)
+[Watch my capstone demonstration on Kaltura MediaSpace](https://mediaspace.umn.edu/media/t/1_f3k5u133)
